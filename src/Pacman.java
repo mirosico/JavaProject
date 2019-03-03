@@ -17,7 +17,7 @@ public class Pacman extends JFrame {
         
     	
     	add(new Board());
-        setTitle("Общажний двіж");
+        setTitle("GAME SUPER");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setSize(660, 775);
        setLocationRelativeTo(null);
